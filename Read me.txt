@@ -1,0 +1,4 @@
+This is python project that creates Dnd character and stores them in database.
+open .bat file to run it.
+in create after filling out all sections click add character and then go back to first Manu 
+select character to open new menu click refresh and your character will be in the list
