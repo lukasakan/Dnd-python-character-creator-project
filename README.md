@@ -31,6 +31,17 @@ hello this project is made by @luka__sakandelidze and @Maad_yodaa⛩️🐲⛩�
 ```
 
 ## 🖼️Screenshots
+## Main Page
+![MainPage](<screenshots/Screenshot 2026-01-31 032316.png>)
 
+## Character Creator Page
+![Character Creator Page](<screenshots/Screenshot 2026-01-31 032041.png>)
 
+## Weapons Selector Page
+![Weapons Selector Page](<screenshots/Screenshot 2026-01-31 032050.png>)
 
+## Character Selector Page
+![Character Selector Page](<screenshots/Screenshot 2026-01-31 032109.png>)
+
+## Abilites Page
+![Abilites Page](<screenshots/Screenshot 2026-01-31 032117.png>)
