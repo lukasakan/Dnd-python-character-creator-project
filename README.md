@@ -21,6 +21,7 @@ hello this project is made by @luka__sakandelidze and @Maad_yodaa⛩️🐲⛩�
    ```bash
    python -m venv .venv
    .venv\Scripts\activate
+   ```
 3. **Switch dndproject folder** (to ui to load up)
 ```bash
   cd dndproject
