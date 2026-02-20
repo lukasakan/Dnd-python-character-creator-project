@@ -3,6 +3,9 @@
 
 hello this project is made by @luka__sakandelidze and @Maad_yodaa⛩️🐲⛩️ Instagram. This is python project that creates Dnd character and stores them in database. 
 
+* [Installation](#installation)
+* [✨Features](#features)
+* [🖼️Screenshots](#screenshots)
 
 
 ## ✨Features
